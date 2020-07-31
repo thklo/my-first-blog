@@ -7,7 +7,6 @@ body {
     padding-left: 15px;
 }
 
-
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -45,6 +44,8 @@ body {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    margin-top: 25px;
+    
 }
 
 .post {
@@ -57,4 +58,9 @@ body {
 
 .page-header h1{
 	font-family: 'Oswald', sans-serif;
+}
+
+#topmenu {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15pt;
 }
